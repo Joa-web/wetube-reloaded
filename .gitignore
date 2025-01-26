@@ -5,3 +5,8 @@
 /assets
 /dist
 flyctl.exe
+.dockerignore
+Dockerfile
+fly.toml
+webpack.config.js
+.github
